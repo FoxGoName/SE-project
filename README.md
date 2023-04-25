@@ -13,7 +13,7 @@ The game will end if the blood volume is deducted to 0 (picture 3), and you can 
 Picture 3
 ![image](https://user-images.githubusercontent.com/106571781/234238514-f8523702-d768-44b8-8dd2-00c35de8d46d.png)
 
-Purpose of the software
+***Purpose of the software***
 1.Which type of software development process is applied?
 Our game is applied Agile software development process.
 
@@ -23,7 +23,7 @@ Because we want to ensure the best efficiency for this software development proj
 3.Possible usage of our software.
 Target market:People with fragmented breaks.(Our game doesn't require a lot of time to play, which makes short breaks entertaining for people with more fragmented breaks.)
 
-Development process
+***Development process***
 Demand stage
 Enter the output stage of the visualized product, discuss and provide the simplest and closest to the finished product "Product Prototype".
 According to the needs and project requirements, each student clarified the time points of the detailed stages, and finally carried out the "Project Task Decomposition" according to the development plan to complete the division of labor of the project.
@@ -61,7 +61,7 @@ The game is written in Unity 2D and Visual Studio Code (C# language).
 Future plans:
 	The game will increase the ranking system in the future.
 
-Environments of th software development and running
+***Environments of th software development and running***
 1.Programming language:C#
 
 2.(1)minimum H/W requirements:(development) CPU: i5 or R5, Memory: 16GB, Hard disk: 30GB  | (running) CPU: i3 or R3, Memory: 90MB , Hard disk: 90MB
@@ -70,10 +70,10 @@ Environments of th software development and running
 
 3.Required packages:Collections,UI
 
-Declaration
+***Declaration***
 Unity Assets Store: Simple 2D Platformer Assets Pack (palyer, floor)
                     25 Fantasy RPG Game Tracks Music Pack (background music)
                     Shooting Sound(sounds effects)
                     
-Game introdution
+***Demostration***
 https://www.youtube.com/watch?v=Hk4Zi91ymaU
